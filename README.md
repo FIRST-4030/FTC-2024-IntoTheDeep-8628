@@ -1,6 +1,6 @@
 ## NOTICE
 
-This repository contains the public FTC SDK for the Into the Deep (2024-2025) for the Chickenados (8628) competition season.
+This repository contains the public FTC SDK for the Into the Deep (2024-2025) for the Chickenados (8628) competition season for a robot with odometry pods using 2 dead wheels.
 
 ## Welcome!
 This GitHub repository contains the source code that is used to build an Android app to control a *FIRST* Tech Challenge competition robot.  To use this SDK, download/clone the entire project to your local computer.
